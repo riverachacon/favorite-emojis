@@ -20,7 +20,7 @@ The `App` component is the main component that renders the title and a list of e
 
 ### `Entry.js`
 
-The `Entry` component is a functional component in React that renders an emoji entry with its name and meaning.
+The `Entry` component is a functional component that renders an emoji entry with its name and meaning.
 
 ## Props
 
