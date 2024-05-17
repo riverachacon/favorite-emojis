@@ -3,13 +3,16 @@ import Entry from "./Entry";
 import emojipedia from "../emojipedia";
 
 function createEntry(icon) {
-  return <Entry 
+  return <Entry
+  key = {icon.id} 
   emoji= {icon.emoji}
   name= {icon.name}
   meaning= {icon.meaning} />
 }
+console.log(emojipedia)
 
 function App() {
+  
   return (
     <div>
       <h1>

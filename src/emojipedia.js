@@ -35,14 +35,14 @@ const emojipedia = [
       "Two hands forming a heart shape. Used to express love and support."
   },
   {
-    id: 5,
+    id: 6,
     emoji: "🚀",
     name: "Rocket",
     meaning:
       "rocket emoji is used to indicate if something grows fast or the value increases exponentially. It’s also used for speed, power and progress over time."
   },
   {
-    id: 6,
+    id: 7,
     emoji: "🔥",
     name: "Fire",
     meaning:
