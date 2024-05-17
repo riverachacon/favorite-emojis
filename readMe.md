@@ -17,3 +17,13 @@ The project consists of three main parts:
 ### `App.js`
 
 The `App` component is the main component that renders the title and a list of emoji entries using the `Entry` component.
+
+### `Entry.js`
+
+The `Entry` component is a functional component in React that renders an emoji entry with its name and meaning.
+
+## Props
+
+- emoji: The emoji character to display.
+- name: The name of the emoji.
+- meaning: The meaning or description of the emoji.
